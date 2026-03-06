@@ -1,6 +1,6 @@
 # Analyzing-Students-Mental-Health
 
-# Goal: Using SQL skills such as aggregating, filtering, grouping, and sorting, I drew insights into whether the data supported the claim that the longer the students spent studying abroad, it would negatively affect their overall stress as opposed to domestic students. This was analyzed through performance on core mental health diagnostic exams.
+# Goal: Using SQL skills such as aggregating, filtering, grouping, and sorting, I drew insights into whether the data supported the claim that the longer the students spent studying abroad, it would negatively affect their overall stress as opposed to domestic students. This was analyzed through performance on core mental health diagnostic exams from "students" table.
 
 
 ```Select 
