@@ -2,7 +2,7 @@
 
 # Goal: Using SQL skills such as aggregating, filtering, grouping, and sorting to draw insights into whether students within study abroad programs faced more stress than domestic students.
 
-#Assignment Task: Explore and analyze the students data to see how the length of stay (stay) impacts the average mental health diagnostic scores of the international students present in the study.
+# Assignment Task: Explore and analyze the students data to see how the length of stay (stay) impacts the average mental health diagnostic scores of the international students present in the study.
 
 # SQL Query instructions:
 ## Return a table with nine rows and five columns.
