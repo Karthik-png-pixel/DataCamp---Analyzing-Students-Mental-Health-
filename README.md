@@ -32,3 +32,5 @@ ORDER BY stay DESC;
 
 ## Analysis
 The query groups international students by length of stay abroad and calculates their average scores across three mental health diagnostic tests. Students who stayed 8-10 years showed higher average PHQ scores (a measure of depression) compared to those in shorter stay categories. Notably, the 8 and 10-year groups had very small sample sizes (1 student each), so a natural next step would be expanding the dataset to draw more reliable conclusions.
+
+# Dataset was sourced from an introductory to SQL project on DataCamp
